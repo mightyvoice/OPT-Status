@@ -29,6 +29,9 @@ my_num = 1790114991
 ### the range before and after you want to search
 search_range = 2000
 
+##### maximum time to sleep
+max_sleep_time = 5
+
 ### dic to save all the results and abbreviations
 res2status = {'Case Was Received' : 'Received',
               'Case Was Approved' : 'Approved',
@@ -39,7 +42,7 @@ res2status = {'Case Was Received' : 'Received',
 }
 
 def sleep_random_time():
-    time.sleep(random.randint(1, 5))
+    time.sleep(random.randint(0, max_sleep_time))
 
 def get_opt_num():
     with open("res.txt", "r") as f1:
