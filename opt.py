@@ -13,17 +13,23 @@ import Queue
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
 
 uscis_url = 'https://egov.uscis.gov/casestatus/mycasestatus.do'
-my_data   = {
+
+### data for POST
+post_data = {
     'appReceiptNum' : 'YSC1790114991',
     'initCaseSearch' : 'CHECK STATUS'
 }
 
+##### output file
 f1 = open("num.txt", "w")
 
+#### set your own case number without letters
 my_num = 1790114991
 
+### the range before and after you want to search
 search_range = 2000
 
+### dic to save all the results and abbreviations
 res2status = {'Case Was Received' : 'Received',
               'Case Was Approved' : 'Approved',
               'Request for Initial Evidence Was Mailed' : 'Request',
@@ -46,8 +52,8 @@ def get_opt_num():
 def get_opt_res():
     nums = sorted(get_opt_num().keys())
     for num in nums:
-        my_data['appReceiptNum'] = num
-        r = requests.post(uscis_url, data=my_data, headers=headers)
+        post_data['appReceiptNum'] = num
+        r = requests.post(uscis_url, data=post_data, headers=headers)
         soup = BeautifulSoup(r.content)
         res = soup.form.h1.string
         all_res = soup.form.p.contents[0]
@@ -61,7 +67,7 @@ def process_pot_res():
     pre = get_opt_num()
     res= {}
     for v in res2status.values():
-        res[v] = [0,0]
+        res[v] = [0, 0] #count before and after, respectively.
     for k, v in pre.items():
         if int(k[3:]) <= my_num and v in res2status:
             res[res2status[v]][0] += 1
