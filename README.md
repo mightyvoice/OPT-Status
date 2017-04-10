@@ -1,12 +1,12 @@
 
-#How to use
+# How to use
 
-##Required Python Evironment and Package
+## Required Python Evironment and Package
 * Python 2.7
 * [Request](http://docs.python-requests.org/en/master/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 
-##How to run
+## How to run
 
 * Change the **my_num** variable in opt.py to your own case number. 
 * Change the **search_range** variable in opt.py to the number of cases you want to query before and after your own. The default number is 200.
