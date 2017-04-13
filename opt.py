@@ -8,7 +8,7 @@ import Queue
 from proxy_pool import ProxyFactory
 import multiprocessing
 
-#### set your own case number without letters
+#### set your own case number
 my_num = 'YSC1790114991'
 my_num = long(my_num[3:])
 

@@ -37,7 +37,7 @@ After me Review: 0/20
 
 ## How to run
 
-* After installing PhantomJS, change the PhantomJS_Dir to your own directory in the proxy_pool.py file.
+* After installing PhantomJS, change the **PhantomJS_Dir** to your own directory in the proxy_pool.py file.
 * Change the **my_num** variable in opt.py to your own case number. 
 * Change the **search_range** variable in opt.py to the number of cases you want to query before and after your own. The default number is 20.
 * Just run the following command in the terminal:  
