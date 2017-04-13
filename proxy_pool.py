@@ -5,6 +5,8 @@ from selenium import webdriver
 import multiprocessing
 from multiprocessing import Process, Queue
 
+#### change this dir to your own phantomjs
+PhantomJS_Dir = "/usr/local/bin/phantomjs"
 TEST_WEBSITE = "http://www.google.com"
 
 class Proxy:
@@ -33,7 +35,7 @@ class ProxyFactory:
         print("fetching proxy list...")
         # u = "http://www.freeproxylists.net/zh/?c=cn&f=1&s=u"
         u = "http://www.freeproxylists.net/us.html"
-        driver = webdriver.phantomjs.webdriver.WebDriver(executable_path="/usr/local/bin/phantomjs")
+        driver = webdriver.phantomjs.webdriver.WebDriver(executable_path=PhantomJS_Dir)
         driver.get(u)
         rows = driver.find_elements_by_css_selector("table > tbody > tr")
         proxies = []

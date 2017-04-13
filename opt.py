@@ -9,16 +9,17 @@ import time
 import random
 import threading
 import Queue
+from proxy_pool import ProxyFactory
 
 #### set your own case number without letters
 my_num = 'YSC1790114991'
 my_num = long(my_num[3:])
 
 ### the range before and after you want to search
-search_range = 5
+search_range = 20
 
 ##### maximum time to sleep
-max_sleep_time = 0
+max_sleep_time = 5
 
 ########### For HTTP request ###############
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
@@ -42,16 +43,25 @@ res2status = {'Case Was Received' : 'Received',
               'Notice Was Returned To USCIS Because The Post Office Could Not Deliver It' : 'Returned'
 }
 
+proxy_pool = []
+
 def sleep_random_time():
     time.sleep(random.randint(0, max_sleep_time))
 
 def get_res_one_case(num):
     post_data['appReceiptNum'] = num
     sleep_random_time()
-    r = requests.post(uscis_url, data=post_data, headers=headers)
-    soup = BeautifulSoup(r.content)
-    res = soup.form.h1.string
-    all_res = soup.form.p.contents[0]
+    try:
+        proxy_addr = get_random_proxy_addr()
+        proxies = {"http" : proxy_addr}
+        r = requests.post(uscis_url, data=post_data, headers=headers, proxies = proxies)
+        soup = BeautifulSoup(r.content)
+        res = soup.form.h1.string
+        all_res = soup.form.p.contents[0]
+    except:
+        print 'Cannot get result from the case number: ' + num
+        return False
+
     if all_res.find('I-765') > -1:
         print num, ': ' + res
         f1.write(num + ": " + res + '\n')
@@ -67,10 +77,12 @@ def get_opt_res():
             before -= 1
             if get_res_one_case('YSC'+str(before)):
                 before_count += 1
+                print 'Cases before to get: ' + str(search_range - before_count)
         if after_count < search_range:
             after += 1
             if get_res_one_case('YSC'+str(after)):
                 after_count += 1
+                print 'Cases after to get: ' + str(search_range - after_count)
         if after_count >= search_range and before_count >= search_range:
             break;
     f1.close()
@@ -106,7 +118,19 @@ def process_opt_res():
         print 'After me '+k+': %d/%d ' % (res[k][1], total_after)
     print '#########################'
 
+def get_proxy_pool():
+    pf = ProxyFactory()
+    pf.Run()
+    global proxy_pool
+    proxy_pool = pf.proxyPairs
+    print proxy_pool
+
+def get_random_proxy_addr():
+    index = random.randint(0, len(proxy_pool))
+    return proxy_pool[index][0]
+
 def main():
+    get_proxy_pool()
     get_opt_res()
     process_opt_res()
 

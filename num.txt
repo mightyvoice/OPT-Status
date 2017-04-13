@@ -1,0 +1,40 @@
+YSC1790114994: Case Was Received
+YSC1790114985: Case Was Received
+YSC1790114997: Request for Initial Evidence Was Mailed
+YSC1790114983: Case Was Received
+YSC1790114978: Case Was Received
+YSC1790115006: Case Was Received
+YSC1790114975: Case Was Approved
+YSC1790115012: Case Was Received
+YSC1790114969: Case Was Received
+YSC1790115015: Case Was Received
+YSC1790115017: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790114964: Request for Initial Evidence Was Mailed
+YSC1790115019: Case Was Received
+YSC1790114962: Case Was Received
+YSC1790115021: Request for Initial Evidence Was Mailed
+YSC1790114960: Case Was Received
+YSC1790115024: Case Was Received
+YSC1790114953: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790114950: Request for Initial Evidence Was Mailed
+YSC1790114949: Case Was Received
+YSC1790115035: Decision Notice Mailed
+YSC1790114946: Case Was Received
+YSC1790115042: Request for Initial Evidence Was Mailed
+YSC1790115046: Case Was Received
+YSC1790114929: Case Was Approved
+YSC1790114928: Case Was Approved
+YSC1790114927: Case Was Approved
+YSC1790114925: Case Was Approved
+YSC1790115059: Case Was Received
+YSC1790115061: Case Was Received
+YSC1790115063: Case Was Received
+YSC1790114913: Case Was Received
+YSC1790114901: Case Was Received
+YSC1790115083: Case Was Received
+YSC1790115086: Case Was Received
+YSC1790115088: Request for Initial Evidence Was Mailed
+YSC1790114892: Decision Notice Mailed
+YSC1790114889: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790115096: Case Was Approved
+YSC1790115097: Case Was Received
