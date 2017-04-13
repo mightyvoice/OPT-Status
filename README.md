@@ -8,22 +8,28 @@ I use [Proxy Pool](https://github.com/mightyvoice/Proxy-Pool) to get available I
 
 The final statistc will be shown in the terminal like this:
 ***
-Final Results:  
-#########################  
-Before me Approved: 5/20   
-Before me Denied: 1/20   
-Before me Received: 10/20   
-Before me Request: 2/20   
-Before me Returned: 2/20   
-Before me Review: 0/20     
-#########################    
-After me Approved: 1/20   
-After me Denied: 1/20   
-After me Received: 13/20   
-After me Request: 4/20   
-After me Returned: 1/20   
-After me Review: 0/20    
-######################### 
+Final Results:   
+#########################   
+Before me Approved: 5/200   
+Before me Card Mailed: 138/200   
+Before me Card Produced: 28/200   
+Before me Denied: 1/200   
+Before me Received: 20/200   
+Before me Rejected Incorrect Fee: 0/200   
+Before me Request: 4/200   
+Before me Returned: 4/200   
+Before me Review: 0/200   
+#########################   
+After me Approved: 1/200   
+After me Card Mailed: 100/200   
+After me Card Produced: 30/200   
+After me Denied: 3/200   
+After me Received: 48/200   
+After me Rejected Incorrect Fee: 8/200   
+After me Request: 7/200   
+After me Returned: 3/200   
+After me Review: 0/200   
+#########################   
 ***
 
 # How to use

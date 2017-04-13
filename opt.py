@@ -67,7 +67,7 @@ def get_res_one_case(num, process_id):
         cur_res = soup.form.p.contents[0]
     except:
         print 'In process {0}, cannot process case: '.format(process_id) + num
-        return False
+        return
 
     print 'In process %d, '%(process_id) + num + ': ' + res
     if res in res2status:
@@ -101,10 +101,10 @@ def process_opt_res():
     print 'Final Results: '
     print '#########################'
     for k in sorted(res.keys()):
-        print 'Before me '+k+': %d/%d ' % (res[k][0], total_before)
+        print 'Before me, '+k+': %d/%d ' % (res[k][0], total_before)
     print '#########################'
     for k in sorted(res.keys()):
-        print 'After me '+k+': %d/%d ' % (res[k][1], total_after)
+        print 'After me, '+k+': %d/%d ' % (res[k][1], total_after)
     print '#########################'
 
 class GetOptProcess(multiprocessing.Process):
