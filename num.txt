@@ -1,40 +1,400 @@
-YSC1790114994: Case Was Received
-YSC1790114985: Case Was Received
-YSC1790114997: Request for Initial Evidence Was Mailed
+YSC1790114825: Card Was Mailed To Me
+YSC1790114880: Card Was Mailed To Me
+YSC1790114990: New Card Is Being Produced
+YSC1790114879: Card Was Mailed To Me
+YSC1790114989: Card Was Mailed To Me
+YSC1790114988: Card Was Mailed To Me
+YSC1790114935: Card Was Mailed To Me
+YSC1790114824: Request for Initial Evidence Was Mailed
+YSC1790114878: Card Was Mailed To Me
+YSC1790114877: Card Was Mailed To Me
+YSC1790114934: New Card Is Being Produced
+YSC1790114987: Card Was Mailed To Me
+YSC1790114823: Card Was Mailed To Me
+YSC1790114876: Card Was Mailed To Me
+YSC1790114822: New Card Is Being Produced
+YSC1790114933: Card Was Mailed To Me
+YSC1790114986: Card Was Mailed To Me
+YSC1790114875: Card Was Mailed To Me
+YSC1790114821: Card Was Mailed To Me
+YSC1790114874: Card Was Mailed To Me
+YSC1790114873: Card Was Mailed To Me
+YSC1790114932: Card Was Mailed To Me
+YSC1790114820: Card Was Mailed To Me
+YSC1790114819: Card Was Mailed To Me
+YSC1790114872: Card Was Mailed To Me
+YSC1790114984: Card Was Mailed To Me
+YSC1790114931: Card Was Mailed To Me
 YSC1790114983: Case Was Received
-YSC1790114978: Case Was Received
-YSC1790115006: Case Was Received
-YSC1790114975: Case Was Approved
-YSC1790115012: Case Was Received
-YSC1790114969: Case Was Received
-YSC1790115015: Case Was Received
-YSC1790115017: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
-YSC1790114964: Request for Initial Evidence Was Mailed
-YSC1790115019: Case Was Received
-YSC1790114962: Case Was Received
-YSC1790115021: Request for Initial Evidence Was Mailed
-YSC1790114960: Case Was Received
-YSC1790115024: Case Was Received
-YSC1790114953: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
-YSC1790114950: Request for Initial Evidence Was Mailed
-YSC1790114949: Case Was Received
-YSC1790115035: Decision Notice Mailed
-YSC1790114946: Case Was Received
-YSC1790115042: Request for Initial Evidence Was Mailed
-YSC1790115046: Case Was Received
+YSC1790114871: New Card Is Being Produced
+YSC1790114817: Card Was Mailed To Me
+YSC1790114930: New Card Is Being Produced
+YSC1790114982: Card Was Mailed To Me
+YSC1790114816: New Card Is Being Produced
+YSC1790114870: Card Was Mailed To Me
+YSC1790114869: Card Was Mailed To Me
+YSC1790114981: Card Was Mailed To Me
 YSC1790114929: Case Was Approved
+YSC1790114980: New Card Is Being Produced
 YSC1790114928: Case Was Approved
+YSC1790114979: Card Was Mailed To Me
+YSC1790114978: Case Was Received
+YSC1790114815: Card Was Mailed To Me
+YSC1790114868: Card Was Mailed To Me
+YSC1790114867: Card Was Mailed To Me
+YSC1790114977: Card Was Mailed To Me
 YSC1790114927: Case Was Approved
+YSC1790114926: New Card Is Being Produced
+YSC1790114976: Card Was Mailed To Me
+YSC1790114813: Card Was Mailed To Me
+YSC1790114866: Card Was Mailed To Me
+YSC1790114812: Card Was Mailed To Me
 YSC1790114925: Case Was Approved
-YSC1790115059: Case Was Received
-YSC1790115061: Case Was Received
-YSC1790115063: Case Was Received
+YSC1790114924: New Card Is Being Produced
+YSC1790114811: Case Was Received
+YSC1790114975: Card Was Mailed To Me
+YSC1790114865: New Card Is Being Produced
+YSC1790114810: Case Was Received
+YSC1790114923: Card Was Mailed To Me
+YSC1790114922: Card Was Mailed To Me
+YSC1790114974: Card Was Mailed To Me
+YSC1790114864: Card Was Mailed To Me
+YSC1790114921: Card Was Mailed To Me
+YSC1790114863: New Card Is Being Produced
+YSC1790114973: Card Was Mailed To Me
+YSC1790114809: Card Was Mailed To Me
+YSC1790114920: Card Was Mailed To Me
+YSC1790114862: Card Was Mailed To Me
+YSC1790114972: Card Was Mailed To Me
+YSC1790114971: New Card Is Being Produced
+YSC1790114861: Card Was Mailed To Me
+YSC1790114808: Card Was Mailed To Me
+YSC1790114919: Card Was Mailed To Me
+YSC1790114860: Card Was Mailed To Me
+YSC1790114807: Card Was Mailed To Me
+YSC1790114918: Card Was Mailed To Me
+YSC1790114970: Card Was Mailed To Me
+YSC1790114917: Card Was Mailed To Me
+YSC1790114859: Card Was Mailed To Me
+YSC1790114805: Card Was Mailed To Me
+YSC1790114969: Case Was Received
+YSC1790114916: New Card Is Being Produced
+YSC1790114804: Card Was Mailed To Me
+YSC1790114968: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790114803: Card Was Mailed To Me
+YSC1790114858: Card Was Mailed To Me
+YSC1790114915: New Card Is Being Produced
+YSC1790114857: Case Was Approved
+YSC1790114856: Case Was Received
+YSC1790114802: Card Was Mailed To Me
+YSC1790114967: Card Was Mailed To Me
+YSC1790114914: Card Was Mailed To Me
+YSC1790114801: Card Was Mailed To Me
+YSC1790114966: New Card Is Being Produced
+YSC1790114855: Card Was Mailed To Me
+YSC1790114800: Card Was Mailed To Me
 YSC1790114913: Case Was Received
+YSC1790114965: Card Was Mailed To Me
+YSC1790114854: Card Was Mailed To Me
+YSC1790114853: Card Was Mailed To Me
+YSC1790114799: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790114798: New Card Is Being Produced
+YSC1790114964: Request for Initial Evidence Was Mailed
+YSC1790114912: Card Was Mailed To Me
+YSC1790114797: Card Was Mailed To Me
+YSC1790114852: Card Was Mailed To Me
+YSC1790114911: Card Was Mailed To Me
+YSC1790114796: Card Was Mailed To Me
+YSC1790114851: Case Was Received
+YSC1790114850: Card Was Mailed To Me
+YSC1790114963: Card Was Mailed To Me
+YSC1790114910: Card Was Mailed To Me
+YSC1790114795: Card Was Mailed To Me
+YSC1790114909: Case Was Received
+YSC1790114962: Case Was Received
+YSC1790114794: New Card Is Being Produced
+YSC1790114849: Card Was Mailed To Me
+YSC1790114908: Case Was Received
+YSC1790114848: Request for Initial Evidence Was Mailed
+YSC1790114793: Card Was Mailed To Me
+YSC1790114961: Card Was Mailed To Me
+YSC1790114847: Card Was Mailed To Me
+YSC1790114907: Case Was Received
+YSC1790114792: Case Was Received
+YSC1790114906: Case Was Received
+YSC1790114846: Card Was Mailed To Me
+YSC1790114960: Case Was Received
+YSC1790114905: Case Was Received
+YSC1790114904: Card Was Mailed To Me
+YSC1790114845: Card Was Mailed To Me
+YSC1790114844: Card Was Mailed To Me
+YSC1790114791: New Card Is Being Produced
+YSC1790114843: Card Was Mailed To Me
+YSC1790114790: Card Was Mailed To Me
+YSC1790114789: Card Was Mailed To Me
+YSC1790114959: Card Was Mailed To Me
+YSC1790114788: Card Was Mailed To Me
+YSC1790114958: Card Was Mailed To Me
+YSC1790114903: Card Was Mailed To Me
+YSC1790114841: Card Was Mailed To Me
+YSC1790114957: Card Was Mailed To Me
+YSC1790114840: Card Was Mailed To Me
+YSC1790114787: Card Was Mailed To Me
+YSC1790114902: Card Was Mailed To Me
 YSC1790114901: Case Was Received
-YSC1790115083: Case Was Received
-YSC1790115086: Case Was Received
-YSC1790115088: Request for Initial Evidence Was Mailed
+YSC1790114786: New Card Is Being Produced
+YSC1790114785: Card Was Mailed To Me
+YSC1790114956: Card Was Mailed To Me
+YSC1790114839: Card Was Mailed To Me
+YSC1790114784: Card Was Mailed To Me
+YSC1790114955: New Card Is Being Produced
+YSC1790114900: Card Was Mailed To Me
+YSC1790114899: Card Was Mailed To Me
+YSC1790114898: Card Was Mailed To Me
+YSC1790114954: Card Was Mailed To Me
+YSC1790114783: Card Was Mailed To Me
+YSC1790114838: Card Was Mailed To Me
+YSC1790114837: Card Was Mailed To Me
+YSC1790114897: Card Was Mailed To Me
+YSC1790114953: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790114896: Card Was Mailed To Me
+YSC1790114781: New Card Is Being Produced
+YSC1790114835: Card Was Mailed To Me
+YSC1790114952: Card Was Mailed To Me
+YSC1790114834: Card Was Mailed To Me
+YSC1790114833: Card Was Mailed To Me
+YSC1790114832: Card Was Mailed To Me
+YSC1790114895: Card Was Mailed To Me
+YSC1790114780: Card Was Mailed To Me
+YSC1790114831: Card Was Mailed To Me
+YSC1790114779: New Card Is Being Produced
+YSC1790114894: Card Was Mailed To Me
+YSC1790114778: Card Was Mailed To Me
+YSC1790114950: Request for Initial Evidence Was Mailed
+YSC1790114830: Card Was Mailed To Me
+YSC1790114949: Case Was Received
+YSC1790114893: New Card Is Being Produced
+YSC1790114829: Card Was Mailed To Me
+YSC1790114777: New Card Is Being Produced
+YSC1790114828: New Card Is Being Produced
+YSC1790114948: Card Was Mailed To Me
+YSC1790114827: Card Was Mailed To Me
 YSC1790114892: Decision Notice Mailed
+YSC1790114826: New Card Is Being Produced
+YSC1790114947: Card Was Mailed To Me
+YSC1790114776: Card Was Mailed To Me
+YSC1790114891: Card Was Mailed To Me
 YSC1790114889: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
-YSC1790115096: Case Was Approved
+YSC1790114775: New Card Is Being Produced
+YSC1790114774: Card Was Mailed To Me
+YSC1790114946: Case Was Received
+YSC1790114773: Card Was Mailed To Me
+YSC1790114888: Case Was Received
+YSC1790114772: Card Was Mailed To Me
+YSC1790114945: Card Was Mailed To Me
+YSC1790114771: Card Was Mailed To Me
+YSC1790114887: Card Was Mailed To Me
+YSC1790114944: Card Was Mailed To Me
+YSC1790114886: Card Was Mailed To Me
+YSC1790114885: New Card Is Being Produced
+YSC1790114884: Card Was Mailed To Me
+YSC1790114992: Card Was Mailed To Me
+YSC1790115047: Card Was Mailed To Me
+YSC1790115157: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115102: Card Was Mailed To Me
+YSC1790115103: Card Was Mailed To Me
+YSC1790114993: New Card Is Being Produced
+YSC1790115048: Card Was Mailed To Me
+YSC1790115104: New Card Is Being Produced
+YSC1790115159: New Card Is Being Produced
+YSC1790114994: Case Was Received
+YSC1790115049: Card Was Mailed To Me
+YSC1790114995: Card Was Mailed To Me
+YSC1790115160: Card Was Mailed To Me
+YSC1790115105: Card Was Mailed To Me
+YSC1790115050: Card Was Mailed To Me
+YSC1790114996: New Card Is Being Produced
+YSC1790115051: New Card Is Being Produced
+YSC1790115161: Case Was Received
+YSC1790114997: Request for Initial Evidence Was Mailed
+YSC1790115106: New Card Is Being Produced
+YSC1790115162: Card Was Mailed To Me
+YSC1790115163: Card Was Mailed To Me
+YSC1790115107: Card Was Mailed To Me
+YSC1790114998: Card Was Mailed To Me
+YSC1790115052: New Card Is Being Produced
+YSC1790115108: Card Was Mailed To Me
+YSC1790115053: Card Was Mailed To Me
+YSC1790115109: New Card Is Being Produced
+YSC1790114999: Card Was Mailed To Me
+YSC1790115000: New Card Is Being Produced
+YSC1790115110: Card Was Mailed To Me
+YSC1790115111: Card Was Mailed To Me
+YSC1790115054: Card Was Mailed To Me
+YSC1790115001: Card Was Mailed To Me
+YSC1790115165: Card Was Mailed To Me
+YSC1790115112: Case Was Received
+YSC1790115055: Card Was Mailed To Me
+YSC1790115056: Card Was Mailed To Me
+YSC1790115002: Card Was Mailed To Me
+YSC1790115166: Card Was Mailed To Me
+YSC1790115003: Card Was Mailed To Me
+YSC1790115113: New Card Is Being Produced
+YSC1790115004: New Card Is Being Produced
+YSC1790115114: Card Was Mailed To Me
+YSC1790115005: Card Was Mailed To Me
+YSC1790115167: Request for Initial Evidence Was Mailed
+YSC1790115057: Card Was Mailed To Me
+YSC1790115168: Card Was Mailed To Me
+YSC1790115006: Case Was Received
+YSC1790115058: Card Was Mailed To Me
+YSC1790115007: Card Was Mailed To Me
+YSC1790115169: Card Was Mailed To Me
+YSC1790115115: Card Was Mailed To Me
+YSC1790115008: Card Was Mailed To Me
+YSC1790115059: Case Was Received
+YSC1790115009: Card Was Mailed To Me
+YSC1790115116: Card Was Mailed To Me
+YSC1790115060: Card Was Mailed To Me
+YSC1790115061: Case Was Received
+YSC1790115170: Card Was Mailed To Me
+YSC1790115171: Case Was Received
+YSC1790115010: New Card Is Being Produced
+YSC1790115011: Card Was Mailed To Me
+YSC1790115062: Card Was Mailed To Me
+YSC1790115117: Card Was Mailed To Me
+YSC1790115063: Case Was Received
+YSC1790115172: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115012: Case Was Received
+YSC1790115118: New Card Is Being Produced
+YSC1790115064: New Card Is Being Produced
+YSC1790115173: Card Was Mailed To Me
+YSC1790115119: Card Was Mailed To Me
+YSC1790115013: Card Was Mailed To Me
+YSC1790115120: Card Was Mailed To Me
+YSC1790115014: Card Was Mailed To Me
+YSC1790115065: Card Was Mailed To Me
+YSC1790115174: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115121: Card Was Mailed To Me
+YSC1790115015: Case Was Received
+YSC1790115175: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115122: New Card Is Being Produced
+YSC1790115066: Card Was Mailed To Me
+YSC1790115067: Card Was Mailed To Me
+YSC1790115016: New Card Is Being Produced
+YSC1790115068: Card Was Mailed To Me
+YSC1790115069: New Card Is Being Produced
+YSC1790115123: Card Was Mailed To Me
+YSC1790115017: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790115124: Card Was Mailed To Me
+YSC1790115176: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115177: Case Was Received
+YSC1790115070: New Card Is Being Produced
+YSC1790115125: Card Was Mailed To Me
+YSC1790115126: Card Was Mailed To Me
+YSC1790115018: Card Was Mailed To Me
+YSC1790115178: Case Was Received
+YSC1790115071: Card Was Mailed To Me
+YSC1790115179: Case Was Received
+YSC1790115127: Card Was Mailed To Me
+YSC1790115019: Case Was Received
+YSC1790115128: Card Was Mailed To Me
+YSC1790115072: New Card Is Being Produced
+YSC1790115180: Case Was Received
+YSC1790115020: New Card Is Being Produced
+YSC1790115021: Request for Initial Evidence Was Mailed
+YSC1790115129: Card Was Mailed To Me
+YSC1790115130: Card Was Mailed To Me
+YSC1790115073: Card Was Mailed To Me
+YSC1790115181: Case Was Received
+YSC1790115022: Card Was Mailed To Me
+YSC1790115182: Case Was Received
+YSC1790115023: Card Was Mailed To Me
+YSC1790115183: Case Was Received
+YSC1790115184: Case Was Received
+YSC1790115132: Card Was Mailed To Me
+YSC1790115024: Case Was Received
+YSC1790115074: Card Was Mailed To Me
+YSC1790115075: Card Was Mailed To Me
+YSC1790115025: Card Was Mailed To Me
+YSC1790115185: Case Was Received
+YSC1790115133: Card Was Mailed To Me
+YSC1790115134: Card Was Mailed To Me
+YSC1790115076: Card Was Mailed To Me
+YSC1790115026: Card Was Mailed To Me
+YSC1790115027: Card Was Mailed To Me
+YSC1790115077: Card Was Mailed To Me
+YSC1790115136: Card Was Mailed To Me
+YSC1790115186: Case Was Received
+YSC1790115078: New Card Is Being Produced
+YSC1790115028: Card Was Mailed To Me
+YSC1790115137: Card Was Mailed To Me
+YSC1790115029: Card Was Mailed To Me
+YSC1790115187: Case Was Received
+YSC1790115079: New Card Is Being Produced
+YSC1790115138: Case Was Received
+YSC1790115188: Case Was Received
+YSC1790115189: Case Was Received
+YSC1790115030: Card Was Mailed To Me
+YSC1790115080: Card Was Mailed To Me
+YSC1790115139: Card Was Mailed To Me
+YSC1790115081: Card Was Mailed To Me
+YSC1790115082: New Card Is Being Produced
+YSC1790115190: Case Was Received
+YSC1790115141: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790115031: Card Was Mailed To Me
+YSC1790115191: Case Was Received
+YSC1790115083: Case Was Received
+YSC1790115032: Card Was Mailed To Me
+YSC1790115142: Notice Was Returned To USCIS Because The Post Office Could Not Deliver It
+YSC1790115084: New Card Is Being Produced
+YSC1790115085: New Card Is Being Produced
+YSC1790115192: Case Was Received
+YSC1790115086: Decision Notice Mailed
+YSC1790115033: Card Was Mailed To Me
+YSC1790115087: New Card Is Being Produced
+YSC1790115088: Request for Initial Evidence Was Mailed
+YSC1790115034: Card Was Mailed To Me
+YSC1790115194: Case Was Received
+YSC1790115089: Card Was Mailed To Me
+YSC1790115143: Case Was Received
+YSC1790115195: Case Was Received
+YSC1790115035: Decision Notice Mailed
+YSC1790115090: New Card Is Being Produced
+YSC1790115144: Case Was Received
+YSC1790115196: Case Was Received
+YSC1790115036: Card Was Mailed To Me
+YSC1790115145: Case Was Received
+YSC1790115197: Card Was Mailed To Me
+YSC1790115091: Card Was Mailed To Me
+YSC1790115146: Case Was Received
+YSC1790115198: Case Was Received
+YSC1790115147: Request for Initial Evidence Was Mailed
+YSC1790115092: Card Was Mailed To Me
+YSC1790115037: Card Was Mailed To Me
+YSC1790115199: Case Was Received
+YSC1790115200: Case Was Received
+YSC1790115148: Card Was Mailed To Me
+YSC1790115038: New Card Is Being Produced
+YSC1790115039: New Card Is Being Produced
+YSC1790115201: Case Was Received
+YSC1790115149: Decision Notice Mailed
+YSC1790115094: Card Was Mailed To Me
+YSC1790115202: Case Was Received
+YSC1790115203: Case Was Received
+YSC1790115095: New Card Is Being Produced
+YSC1790115040: Card Was Mailed To Me
+YSC1790115204: Case Was Received
+YSC1790115150: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115151: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115041: Card Was Mailed To Me
 YSC1790115097: Case Was Received
+YSC1790115205: Case Was Received
+YSC1790115042: Request for Initial Evidence Was Mailed
+YSC1790115098: Request for Initial Evidence Was Mailed
+YSC1790115099: Case Was Approved
+YSC1790115206: Case Was Received
+YSC1790115043: Card Was Mailed To Me
+YSC1790115152: Case Rejected Because I Sent An Incorrect Fee
+YSC1790115207: Case Was Received
+YSC1790115100: Card Was Mailed To Me

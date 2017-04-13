@@ -8,15 +8,15 @@ I use [Proxy Pool](https://github.com/mightyvoice/Proxy-Pool) to get available I
 
 The final statistc will be shown in the terminal like this:
 ***
-Final Results: 
+Final Results:  
 #########################  
 Before me Approved: 5/20   
 Before me Denied: 1/20   
 Before me Received: 10/20   
 Before me Request: 2/20   
 Before me Returned: 2/20   
-Before me Review: 0/20 
-#########################  
+Before me Review: 0/20     
+#########################    
 After me Approved: 1/20   
 After me Denied: 1/20   
 After me Received: 13/20   
@@ -37,6 +37,7 @@ After me Review: 0/20
 
 ## How to run
 
+* After installing PhantomJS, change the PhantomJS_Dir to your own directory in the proxy_pool.py file.
 * Change the **my_num** variable in opt.py to your own case number. 
 * Change the **search_range** variable in opt.py to the number of cases you want to query before and after your own. The default number is 20.
 * Just run the following command in the terminal:  
