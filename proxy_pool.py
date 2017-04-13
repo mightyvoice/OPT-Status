@@ -7,6 +7,7 @@ from multiprocessing import Process, Queue
 
 #### change this dir to your own phantomjs
 PhantomJS_Dir = "/usr/local/bin/phantomjs"
+
 TEST_WEBSITE = "http://www.google.com"
 
 class Proxy:
