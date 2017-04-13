@@ -13,7 +13,7 @@ my_num = 'YSC1790114991'
 my_num = long(my_num[3:])
 
 ### the range before and after you want to search
-search_range = 200
+search_range = 20
 
 ##### maximum time to sleep
 max_sleep_time = 5
